@@ -61,5 +61,27 @@ This is the main class where I test all possible cases in our case there are 16 
 	 - The second input is: “Attend lectures” 
 	 - The third input is: “Read textbook”
 	 - The forth input is: “Make exercises”
+	 
+```
+#### Answers
+You should be able to pass the exam
+You should be able to pass the exam
+You should be able to pass the exam
+You could easily fail the exam
+You could easily fail the exam
+You could easily fail the exam
+You could easily fail the exam
+You could easily fail the exam
+You could easily fail the exam
+You could easily fail the exam
+You could easily fail the exam
+You could easily fail the exam
+You should be able to pass the exam
+You should be able to pass the exam
+You could easily fail the exam
+You could easily fail the exam
+```
+These are the answers outputed.
+
 #### After thoughts
 There are various different ways to approach this assignment: Arrays, Binary Trees, Dictionaries and etc. and I believe the best option in the end is the one with the fasted runtime. As I only did this one algorithm I could not measure the difference between different approaches. However, I believe that this approach in bigger decision trees would be quite fast but the size of it would be massive which would be definitely something easily readable and understandable.
