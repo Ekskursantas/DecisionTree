@@ -61,9 +61,8 @@ This is the main class where I test all possible cases in our case there are 16 
 	 - The second input is: “Attend lectures” 
 	 - The third input is: “Read textbook”
 	 - The forth input is: “Make exercises”
-	 
+#### Answers	 
 ```
-#### Answers
 You should be able to pass the exam
 You should be able to pass the exam
 You should be able to pass the exam
